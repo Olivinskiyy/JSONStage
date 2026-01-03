@@ -1,0 +1,14 @@
+[
+  {
+    "imageUrl": "http://10.214.112.121/stage.jpg",
+    "title": "Начало разработки",
+    "button": "Подробнее",
+    "link": "https://forum.brp.ru/start-development"
+  },
+  {
+    "imageUrl": "http://10.214.112.121/stage.jpg",
+    "title": "Мы на финишной прямой!",
+    "button": "Узнать больше",
+    "link": "https://forum.brp.ru/final-stage"
+  }
+]
