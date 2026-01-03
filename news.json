@@ -1,14 +1,14 @@
 [
   {
-    "imageUrl": "http://10.214.112.121/stage.jpg",
-    "title": "Начало разработки",
-    "button": "Подробнее",
-    "link": "https://forum.brp.ru/start-development"
+    "imageUrl": "https://raw.githubusercontent.com/Olivinskiyy/JSONStage/main/stage.jpg",
+    "title": "РќР°С‡Р°Р»Рѕ СЂР°Р·СЂР°Р±РѕС‚РєРё",
+    "button": "РџРѕРґСЂРѕР±РЅРµРµ",
+    "link": "https://raw.githubusercontent.com/Olivinskiyy/JSONStage/main/stage.jpg"
   },
   {
-    "imageUrl": "http://10.214.112.121/stage.jpg",
-    "title": "Мы на финишной прямой!",
-    "button": "Узнать больше",
-    "link": "https://forum.brp.ru/final-stage"
+    "imageUrl": "https://raw.githubusercontent.com/Olivinskiyy/JSONStage/main/stage.jpg",
+    "title": "РњС‹ РЅР° С„РёРЅРёС€РЅРѕР№ РїСЂСЏРјРѕР№!",
+    "button": "РЈР·РЅР°С‚СЊ Р±РѕР»СЊС€Рµ",
+    "link": "https://raw.githubusercontent.com/Olivinskiyy/JSONStage/main/stage.jpg"
   }
 ]
