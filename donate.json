@@ -1,0 +1,27 @@
+{
+  "cars": [
+    {"id": "cars_1", "title": "BMW", "desc": "I8", "price": "4.000", "image": "car1"},
+    {"id": "cars_2", "title": "FORD", "desc": "focus", "price": "2.000", "image": "car2"},
+    {"id": "cars_3", "title": "Ferrari", "desc": "ебу", "price": "5.000", "image": "car3"},
+    {"id": "cars_4", "title": "Volkswagen", "desc": "Polo", "price": "52.52", "image": "car4"},
+    {"id": "cars_5", "title": "Mercedes", "desc": "C63", "price": "141.141", "image": "car5"}
+  ],
+  "cases": [
+    {"id": "cases_1", "title": "Авто", "desc": "Кейс", "price": "500", "image": "autocase"},
+    {"id": "cases_2", "title": "Скин", "desc": "Кейс", "price": "400", "image": "skincase"},
+    {"id": "cases_3", "title": "Золотой", "desc": "Кейс", "price": "150", "image": "goldcase"},
+    {"id": "cases_4", "title": "Серебряный", "desc": "Кейс", "price": "250", "image": "silvercase"}
+  ],
+  "skins": [
+    {"id": "skins_1", "title": "МЕССИ", "desc": "Персонаж", "price": "500", "image": "messi"},
+    {"id": "skins_2", "title": "МЕССИ", "desc": "Персонаж", "price": "500", "image": "messi"}
+  ],
+  "money": [
+    {"id": "money_1", "title": "100.000P", "desc": "Игровая валюта", "price": "150", "image": "ic_cashdonate"},
+    {"id": "money_2", "title": "250.000P", "desc": "Игровая валюта", "price": "300", "image": "ic_cashdonate"},
+    {"id": "money_3", "title": "500.000P", "desc": "Игровая валюта", "price": "450", "image": "ic_cashdonate"},
+    {"id": "money_4", "title": "1.000.000P", "desc": "Игровая валюта", "price": "150", "image": "ic_cashdonate"},
+    {"id": "money_5", "title": "2.500.000P", "desc": "Игровая валюта", "price": "300", "image": "ic_cashdonate"},
+    {"id": "money_6", "title": "5.000.000P", "desc": "Игровая валюта", "price": "450", "image": "ic_cashdonate"}
+  ]
+}
